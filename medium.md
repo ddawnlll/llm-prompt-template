@@ -1,3 +1,4 @@
+```markdown
 You are the [PROJECT / SYSTEM / PHASE] implementation agent.
 
 Your task is to continue and complete:
@@ -149,3 +150,5 @@ If critical behavior remains unresolved after reading authority, contracts, poli
 - stop implementation
 - report the unresolved ambiguity
 - do not guess
+
+```
